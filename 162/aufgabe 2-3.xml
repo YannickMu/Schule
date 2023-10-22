@@ -1,0 +1,31 @@
+<Wettkampresultate>
+
+	<Person>
+		<Anrede>Herr</Anrede>
+		<Name>Adam</Name>
+		<Vorname>Kurt</Vorname>
+		<Jahrgang>1958</Jahrgang>
+		<Wettkampf_03>986</Wettkampf_03>
+		<Wettkampf_04>972</Wettkampf_04>
+		<Wettkampf_05>983</Wettkampf_05>
+	</Person>
+	<Person>
+		<Anrede>Herr</Anrede>
+		<Name>Brandi</Name>
+		<Vorname>Martin</Vorname>
+		<Jahrgang>1984</Jahrgang>
+		<Wettkampf_03>895</Wettkampf_03>
+		<Wettkampf_04>923</Wettkampf_04>
+		<Wettkampf_05>912</Wettkampf_05>
+	</Person>
+	<Person>
+		<Anrede>Herr</Anrede>
+		<Name>Barrer</Name>
+		<Vorname>Konrad</Vorname>
+		<Jahrgang>1946</Jahrgang>
+		<Wettkampf_03>941</Wettkampf_03>
+		<Wettkampf_04>956</Wettkampf_04>
+		<Wettkampf_05>928</Wettkampf_05>
+	</Person>
+
+</Wettkampresultate>
