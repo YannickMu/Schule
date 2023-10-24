@@ -25,7 +25,7 @@ int main(){
     printf("Der Speicherbedarf der short-Variable: \t%d Byte\n", sizeof(s));
     printf("Der Speicherbedarf der int-Variable: \t%d Byte\n", sizeof(i));
     printf("Der Speicherbedarf der float-Variable: \t%d Byte\n", sizeof(f));
-    printf("Der Speicherbedarf der double-Variable: \t%d Byte\n\n", sizeof(d));
+    printf("Der Speicherbedarf der double-Variable:\t%d Byte\n\n", sizeof(d));
     //Teilaufgabe 3
     c = 300;
     s = 50000;
