@@ -22,6 +22,7 @@ int main() {
     }
     //Verarbeitung:
     wurzel = sqrt(eingabe);
+    //Ausgabe:
     printf("Die Wurzel von %f ist %f.\n", eingabe, wurzel);
     printf("Programmende\n");
     return 0;
