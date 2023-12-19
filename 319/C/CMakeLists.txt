@@ -22,4 +22,6 @@ add_executable(C
         5-5.c
         6-1.c
         6-2.c
+        BerechneNullstelle_Yannick_Mueller/main.c
+        6-8.c
 )

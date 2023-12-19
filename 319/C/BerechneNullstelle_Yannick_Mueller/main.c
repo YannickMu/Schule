@@ -1,7 +1,7 @@
 /*
-Aufgabe: 6-4
+Aufgabe: Berechne Nullstelle mit Miternachtsformel
 Datum: 12.12.2023
-Autor: Yannick Müller
+Autor: Yannick Mueller
 Version 1
 */
 
