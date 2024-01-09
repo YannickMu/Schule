@@ -21,15 +21,15 @@ int main()
             printf("Geben sie die %d. Note ein (1-6) 0 = Ende:", i);
             scanf("%f", &note);
             //Verarbeitung
-            if (note > 6) {
-                printf("Die Note darf nicht groesser als 6 sein.");
+            if (note > 6 || note < 0) {
+                printf("Die Note darf nicht groesser als 6 sein oder kleiner als 0 sein.");
                 return 345;
             } else {
                 summenoten += note;
                 i++;
             }
         } while (note != 0);
-        printf("Der Durchschnitt der %d Noten ist: %.2f\n", i - 2, summenoten / (i - 2));
+        printf("Der Durchschnitt der %d Noten ist: %.2f\n", i - 2, summenoten / (i-2));
         printf("Moechtest du noch einen Durchschnitt berechnen (1=Ja, 0=Nein):");
         scanf("%d", &nochmal);
     } while (nochmal != 0);
