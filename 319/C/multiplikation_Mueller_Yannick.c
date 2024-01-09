@@ -21,7 +21,7 @@ int main()
         scanf("%d", &mal);
         if (mal < 0)
         {
-            printf("-> Der Wert muss groesser gleich 0 sein.\n");
+            printf("\n-> Der Wert muss groesser gleich 0 sein.\n");
         }
         if (mal == 0)
         {
