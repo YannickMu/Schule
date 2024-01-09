@@ -1,7 +1,7 @@
 /*
 Aufgabe: Prüfung Modul 319 III Programmieraufgabe "Potenzen"
 Datum: 09.01.2024
-Autor: Yannick Müller
+Autor: Yannick Mueller
 */
 
 #include <stdio.h>
