@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(0,0,0);
+    align-items: center;
+    justify-content: center;
+    font-family: "JetBrains Mono";
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.containerv {
+    display: flex;
+    flex-direction: column;
+}
+
+.img {
+    width: 15vw;
+    height: 15vw;
+    margin-right: 7vw;
+}
+
+img {
+    width: 3vw;
+    height: 3vw;
+    margin: 2vw;
+}
+
+span {
+    flex-basis: 100%;
+}
+
+table, th, td {
+    border: 1px solid white;
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.break {
+    flex-basis: 100vw;
+}
+
+p {
+    max-width: 40vw;
+}
