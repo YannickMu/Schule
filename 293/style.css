@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://images.maennersache.de/matrix,id=5d770f7f,b=maennersache,w=1200,rm=sk.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    align-items: center;
+    font-family: "Calibri Light";
+}
+body, ol, .ol {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+}
+.ol {
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 20px;
+    max-width: 60%;
+    padding: 10px;
+    text-align: left;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 25pt;
+    color: chartreuse;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: fit-content;
+    text-align: center;
+    align-self: center;
+}
+
+img {
+    width: 80%;
+}
+
+li {
+    font-weight: bolder;
+    text-align: left;
+}
+a {
+    text-decoration: none;
+    align-self: center;
+}
